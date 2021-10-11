@@ -4,4 +4,4 @@ Using linear regression method, I could see relationship between money and happi
 
 ##Run on the Google Colab
 
-#Examine life satisfaction with South and North Korea
+#Examine life satisfaction between South and North Korea
