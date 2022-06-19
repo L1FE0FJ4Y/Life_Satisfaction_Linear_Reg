@@ -3,7 +3,7 @@ Using linear regression method, I could see relationship between money and life-
 Simple result shows life-satisfaction increases as income grows calculated by linear regression
 
 
-# Run on the Google Colab
+Run on the Google Colab
 
 Examine life satisfaction between South and North Korea
 However, life-satisfaction does not differ in two countries
